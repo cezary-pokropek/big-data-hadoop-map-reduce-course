@@ -130,3 +130,4 @@ dmypy.json
 
 # Ignore 04 Project Large file
 04_airports/flights.csv
+04_airports/preprocessed_data.csv
